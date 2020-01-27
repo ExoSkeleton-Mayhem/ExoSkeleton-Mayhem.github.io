@@ -4,7 +4,7 @@ layout: default
 
  ~~strikethrough~~ 
 
-[SkeletonRomS Github](https://github.com/ExoSkeleton-Mayhem?tab=repositories).
+[SkeletonRomS Github](https://github.com/ExoSkeleton-Mayhem?tab=repositories)
 
 There should be whitespace between paragraphs.
 
