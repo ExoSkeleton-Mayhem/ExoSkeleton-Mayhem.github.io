@@ -2,7 +2,7 @@
 layout: default
 ---
 
- ~~strikethrough~~ 
+
 
 [SkeletonRomS Github](https://github.com/ExoSkeleton-Mayhem?tab=repositories)
 
@@ -105,11 +105,11 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>SkeletonRomS</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>2019</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>WestCoast</dd>
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
