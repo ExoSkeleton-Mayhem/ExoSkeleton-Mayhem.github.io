@@ -104,6 +104,10 @@ end
 
 ![Moon Rising](https://i.kym-cdn.com/photos/images/original/000/813/048/952.gif)
 
+### Laugh at This!
+
+![Laughing Skeleton](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjYhYuX0aPnAhVKqJ4KHaemDhgQjRx6BAgBEAQ&url=https%3A%2F%2Ftenor.com%2Fview%2Foverlord-skeleton-undead-anime-laughin-laugh-skeleton-scary-gif-12400888&psig=AOvVaw0gTRF7wwaBX8mRcMWd9QBg&ust=1580195788518770)
+
 
 ### Definition lists can be used with HTML syntax.
 
