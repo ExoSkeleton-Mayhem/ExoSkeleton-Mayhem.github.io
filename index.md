@@ -102,7 +102,7 @@ end
 
 ### Large image
 
-![Moon Rising](http://www.thekarmanbar.com/wp-content/uploads/2019/05/66583570_2342384485849645_1963872043749343232_o-1320x1709.jpg)
+![Moon Rising](https://i.kym-cdn.com/photos/images/original/000/813/048/952.gif)
 
 
 ### Definition lists can be used with HTML syntax.
