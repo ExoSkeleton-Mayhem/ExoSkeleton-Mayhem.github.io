@@ -2,6 +2,9 @@
 layout: default
 ---
 
+### Large image
+
+![Muahahaha](https://media2.giphy.com/media/AsKbQahEjfIT6/source.gif)
 
 
 [SkeletonRomS Github](https://github.com/ExoSkeleton-Mayhem?tab=repositories)
