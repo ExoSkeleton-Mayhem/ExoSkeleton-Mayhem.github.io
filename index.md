@@ -106,7 +106,7 @@ end
 
 ### Large image
 
-![Laughing Skeleton](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjYhYuX0aPnAhVKqJ4KHaemDhgQjRx6BAgBEAQ&url=https%3A%2F%2Ftenor.com%2Fview%2Foverlord-skeleton-undead-anime-laughin-laugh-skeleton-scary-gif-12400888&psig=AOvVaw0gTRF7wwaBX8mRcMWd9QBg&ust=1580195788518770)
+![Laughing Skeleton](https://tenor.com/view/overlord-skeleton-undead-anime-laughin-laugh-skeleton-scary-gif-12400888)
 
 
 ### Definition lists can be used with HTML syntax.
