@@ -100,9 +100,6 @@ end
 
 ![Branching](https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/10/31/16/gettyimages-1054491458.jpg?w968h681)
 
-### Large image
-
-![Moon Rising](https://i.kym-cdn.com/photos/images/original/000/813/048/952.gif)
 
 ### Large image
 
