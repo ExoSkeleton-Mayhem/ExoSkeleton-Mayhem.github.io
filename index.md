@@ -4,7 +4,7 @@ layout: default
 
  ~~strikethrough~~ 
 
-[Link to another page](./another-page.html).
+[Link to another page](www.github.com/Exoskeleton-Mayhem).
 
 There should be whitespace between paragraphs.
 
@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 SkeletonRomS will bring you exciting Android again.
 
-## Header 2
+## AndroidOS with all the familiar tweaks, and some you havnt seen yet!
 
 > This is a blockquote following a header.
 >
